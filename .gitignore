@@ -1,0 +1,17 @@
+# 原始与中间数据（受许可协议限制，不公开分发）
+data/
+*.parquet
+*.dta
+*.csv
+
+# 生成的文档
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 系统
+.DS_Store
+Thumbs.db
